@@ -6,7 +6,7 @@
 </a>
 <br><br>
 <a href="https://github.com/dodging?tab=repositories">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodging&theme=chartreuse-dark&show_icons=true" />
 </a>
 <br>
 <br>
